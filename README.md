@@ -82,4 +82,4 @@ $ python question_classifier.py --test --config data/models/bow_glove_finetune.i
 **Note**  : Before running the test command for a particular model specification, ensure that the training command for the same configuration has already been executed.
 
 ## Documentation
-Further documentation on how the code works can be found [here](document/README.md)
+Further documentation on how the code works can be found [here](documents/README.md)
